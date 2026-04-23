@@ -1,0 +1,17 @@
+{
+    "Name": "ProfileGrapher",
+    "Version": "1.0.0",
+    "Author": "gdyer05",
+    "Organization": {
+        "ProfileAutofill": "@example.com"
+    },
+    "DefaultPermissions": {
+        "User.Read.All": true, 
+        "UserAuthenticationMethod.Read.All": false, 
+        "ProfilePhoto.Read.All": true,
+        "AuditLog.Read.All": false,
+        "IdentityRiskEvent.Read.All": false,
+        "IdentityRiskyUser.Read.All": false,
+        "Directory.Read.All": false
+    }
+}
