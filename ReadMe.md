@@ -4,6 +4,10 @@
 
 ProfileGrapher is a Powershell-Based WinForms UI which interacts with Microsoft's Graph SDK. It is designed to display Summarized, Interactive Information for a User's Profile. ProfileGrapher allows for users of Varying Entra Access Permissions to export summarized Excel Spreadsheets for analysis.
 
+<img src="https://raw.githubusercontent.com/gdyer05/ProfileGrapher-Open/refs/heads/main/Assets/preview.png" width="50%">
+
+$\small{\color{#777}{\ \textsf{Preview Image with Contents Redacted}}}$
+
 ## Getting Started
 Running '.\\ProfileGrapher.ps1' will display a Launcher which prompts the User to Log In with Microsoft. The User must know what permissions they have access to, and must have their Privileged Roles enabled through Entra.
 
